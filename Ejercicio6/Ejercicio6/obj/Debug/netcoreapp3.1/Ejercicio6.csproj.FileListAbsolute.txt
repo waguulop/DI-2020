@@ -1,0 +1,12 @@
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/bin/Debug/netcoreapp3.1/Ejercicio6.deps.json
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/bin/Debug/netcoreapp3.1/Ejercicio6.runtimeconfig.json
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/bin/Debug/netcoreapp3.1/Ejercicio6.runtimeconfig.dev.json
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/bin/Debug/netcoreapp3.1/Ejercicio6.dll
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/bin/Debug/netcoreapp3.1/Ejercicio6.pdb
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/obj/Debug/netcoreapp3.1/Ejercicio6.csprojAssemblyReference.cache
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/obj/Debug/netcoreapp3.1/Ejercicio6.AssemblyInfoInputs.cache
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/obj/Debug/netcoreapp3.1/Ejercicio6.AssemblyInfo.cs
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/obj/Debug/netcoreapp3.1/Ejercicio6.csproj.CoreCompileInputs.cache
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/obj/Debug/netcoreapp3.1/Ejercicio6.dll
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/obj/Debug/netcoreapp3.1/Ejercicio6.pdb
+/Users/guillermosq/Desktop/repo DI/Ejercicio6/Ejercicio6/obj/Debug/netcoreapp3.1/Ejercicio6.genruntimeconfig.cache
