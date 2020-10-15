@@ -15,24 +15,29 @@ namespace ejercicio9
             int num1 = System.Convert.ToInt32(System.Console.ReadLine());
             Console.WriteLine("Introduce el segundo numero: ");
             int num2 = System.Convert.ToInt32(System.Console.ReadLine());
+            int res = 0;
             try
             {
-                int res = division(num1, num2);
-                Console.WriteLine("El resultado es " + res);
+                res = division(num1, num2);
             }
             catch (DivideByZeroException e)
             {
                 Console.WriteLine("Has intentado dividir con 0");
             }
+            imprimirResultado(res);
         }
 
         public static int division(int num1, int num2)
         {
-            if (num2 == 0)
-            {
-                throw new System.DivideByZeroException();
-            }
             return num1/num2;
+        }
+
+        public static void imprimirResultado(int res)
+        {
+            if (res != 0)
+            {
+                Console.WriteLine("El resultado es " + res);
+            }
         }
     }
 }
