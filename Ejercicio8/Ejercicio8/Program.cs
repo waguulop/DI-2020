@@ -23,7 +23,7 @@ namespace Ejercicio8
             int contador = 0;
             for (int i = 0; i < 8; i++)
             {
-                if (i < 2)
+                if (i < 1)
                 {
                     contador++;
                 }
