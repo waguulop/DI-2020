@@ -1,0 +1,10 @@
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\bin\Debug\SumarDosNumeros.exe.config
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\bin\Debug\SumarDosNumeros.exe
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\bin\Debug\SumarDosNumeros.pdb
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\obj\Debug\SumarDosNumeros.csprojAssemblyReference.cache
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\obj\Debug\SumarDosNumeros.SumarNumeros.resources
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\obj\Debug\SumarDosNumeros.Properties.Resources.resources
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\obj\Debug\SumarDosNumeros.csproj.GenerateResource.cache
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\obj\Debug\SumarDosNumeros.csproj.CoreCompileInputs.cache
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\obj\Debug\SumarDosNumeros.exe
+C:\Users\PCGUILLE\source\repos\SumarDosNumeros\SumarDosNumeros\obj\Debug\SumarDosNumeros.pdb

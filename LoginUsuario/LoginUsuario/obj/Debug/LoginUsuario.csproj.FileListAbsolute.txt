@@ -1,0 +1,10 @@
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\bin\Debug\LoginUsuario.exe.config
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\bin\Debug\LoginUsuario.exe
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\bin\Debug\LoginUsuario.pdb
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\obj\Debug\LoginUsuario.csprojAssemblyReference.cache
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\obj\Debug\LoginUsuario.SocialMediaLoginView.resources
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\obj\Debug\LoginUsuario.Properties.Resources.resources
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\obj\Debug\LoginUsuario.csproj.GenerateResource.cache
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\obj\Debug\LoginUsuario.csproj.CoreCompileInputs.cache
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\obj\Debug\LoginUsuario.exe
+C:\Users\PCGUILLE\source\repos\LoginUsuario\LoginUsuario\obj\Debug\LoginUsuario.pdb

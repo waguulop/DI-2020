@@ -1,0 +1,10 @@
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.exe.config
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.exe
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.pdb
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csprojAssemblyReference.cache
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.Properties.Resources.resources
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.GenerateResource.cache
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.exe
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.pdb
+C:\Users\PCGUILLE\Desktop\EjerciciosWindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.VentanaBlocDeNotas.resources

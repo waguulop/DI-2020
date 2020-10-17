@@ -1,0 +1,10 @@
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\bin\Debug\SumaParcialesListBox.exe.config
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\bin\Debug\SumaParcialesListBox.exe
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\bin\Debug\SumaParcialesListBox.pdb
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\obj\Debug\SumaParcialesListBox.csprojAssemblyReference.cache
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\obj\Debug\SumaParcialesListBox.VistaPrincipal.resources
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\obj\Debug\SumaParcialesListBox.Properties.Resources.resources
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\obj\Debug\SumaParcialesListBox.csproj.GenerateResource.cache
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\obj\Debug\SumaParcialesListBox.csproj.CoreCompileInputs.cache
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\obj\Debug\SumaParcialesListBox.exe
+C:\Users\PCGUILLE\source\repos\SumaParcialesListBox\SumaParcialesListBox\obj\Debug\SumaParcialesListBox.pdb

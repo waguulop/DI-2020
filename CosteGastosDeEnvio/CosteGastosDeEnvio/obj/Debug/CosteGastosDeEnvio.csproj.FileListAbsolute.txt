@@ -1,0 +1,10 @@
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\bin\Debug\CosteGastosDeEnvio.exe.config
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\bin\Debug\CosteGastosDeEnvio.exe
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\bin\Debug\CosteGastosDeEnvio.pdb
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\obj\Debug\CosteGastosDeEnvio.csprojAssemblyReference.cache
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\obj\Debug\CosteGastosDeEnvio.VistaPrincipal.resources
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\obj\Debug\CosteGastosDeEnvio.Properties.Resources.resources
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\obj\Debug\CosteGastosDeEnvio.csproj.GenerateResource.cache
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\obj\Debug\CosteGastosDeEnvio.csproj.CoreCompileInputs.cache
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\obj\Debug\CosteGastosDeEnvio.exe
+C:\Users\PCGUILLE\source\repos\CosteGastosDeEnvio\CosteGastosDeEnvio\obj\Debug\CosteGastosDeEnvio.pdb

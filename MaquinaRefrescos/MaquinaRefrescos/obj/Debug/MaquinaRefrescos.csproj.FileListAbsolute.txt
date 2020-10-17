@@ -1,0 +1,10 @@
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\bin\Debug\MaquinaRefrescos.exe.config
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\bin\Debug\MaquinaRefrescos.exe
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\bin\Debug\MaquinaRefrescos.pdb
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\obj\Debug\MaquinaRefrescos.csprojAssemblyReference.cache
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\obj\Debug\MaquinaRefrescos.VentanaPrincipalVentaRefrescos.resources
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\obj\Debug\MaquinaRefrescos.Properties.Resources.resources
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\obj\Debug\MaquinaRefrescos.csproj.GenerateResource.cache
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\obj\Debug\MaquinaRefrescos.csproj.CoreCompileInputs.cache
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\obj\Debug\MaquinaRefrescos.exe
+C:\Users\PCGUILLE\source\repos\MaquinaRefrescos\MaquinaRefrescos\obj\Debug\MaquinaRefrescos.pdb
