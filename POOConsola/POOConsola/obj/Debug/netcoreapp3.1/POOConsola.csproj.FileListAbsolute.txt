@@ -1,0 +1,13 @@
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\bin\Debug\netcoreapp3.1\POOConsola.exe
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\bin\Debug\netcoreapp3.1\POOConsola.deps.json
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\bin\Debug\netcoreapp3.1\POOConsola.runtimeconfig.json
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\bin\Debug\netcoreapp3.1\POOConsola.runtimeconfig.dev.json
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\bin\Debug\netcoreapp3.1\POOConsola.dll
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\bin\Debug\netcoreapp3.1\POOConsola.pdb
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\obj\Debug\netcoreapp3.1\POOConsola.csprojAssemblyReference.cache
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\obj\Debug\netcoreapp3.1\POOConsola.csproj.CoreCompileInputs.cache
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\obj\Debug\netcoreapp3.1\POOConsola.AssemblyInfoInputs.cache
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\obj\Debug\netcoreapp3.1\POOConsola.AssemblyInfo.cs
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\obj\Debug\netcoreapp3.1\POOConsola.dll
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\obj\Debug\netcoreapp3.1\POOConsola.pdb
+C:\Users\PCGUILLE\source\repos\POOConsola\POOConsola\obj\Debug\netcoreapp3.1\POOConsola.genruntimeconfig.cache
